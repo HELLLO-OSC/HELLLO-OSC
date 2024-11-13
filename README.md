@@ -1,0 +1,6 @@
+- 👋 Hello I am HELLO-OSC or you can call me 𒐪 whatever you like most
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning russian
+- 📫 How to reach me please don't try
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i know print ("Hello world")
